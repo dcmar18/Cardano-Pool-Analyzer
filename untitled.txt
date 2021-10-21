@@ -1,0 +1,1 @@
+https://js.adapools.org/pools.json
